@@ -2,7 +2,7 @@
 
 #### Hi there 👋
 
-## I'm Rose, a student from IIT Roorkee. 
+## I'm Rose, a Electrical Undergrad at IIT Roorkee. 
 
 ### Projects and Acheivements:-
 - ETHMumbai Finalist'24 [Point Caster](https://github.com/rose2221/ETHMumbai)
