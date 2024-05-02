@@ -9,7 +9,7 @@
 - 1st prize, Avail Track at ETH Global's Scaling Ethereum [Zk Proof Portal](https://github.com/rose2221/ScalingEthereum)
 - Winner, Avail DA Track at ETH Global's Circuit Breaker[PriviChainEx](https://github.com/PriviChainEx/)
 
-### Past Experiences
+### Past Experience
 - Ex Blockchain Intern at [Timechain Labs](https://timechainlabs.io/)
   
 
