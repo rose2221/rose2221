@@ -6,8 +6,8 @@
 
 ### Projects and Acheivements:-
 - ETHMumbai Finalist'24, 1st prize PurpleDAO track  [Point Caster](https://github.com/rose2221/ETHMumbai)
-- 1st prize, Avail Track [Zk Proof Portal](https://github.com/rose2221/ScalingEthereum)
-- Winner, Avail DA Track [PriviChainEx](https://github.com/PriviChainEx/)
+- 1st prize, Avail Track at ETH Global's Scaling Ethereum [Zk Proof Portal](https://github.com/rose2221/ScalingEthereum)
+- Winner, Avail DA Track at ETH Global's Circuit Breaker[PriviChainEx](https://github.com/PriviChainEx/)
 
 ### Past Experiences
 - Ex Blockchain Intern at [Timechain Labs](https://timechainlabs.io/)
