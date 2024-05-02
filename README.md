@@ -5,7 +5,7 @@
 ## I'm Rose, a student from IIT Roorkee. 
 
 ### Projects and Acheivements:-
-- ETHMumbai Finalist'24 [Point Caster](https://github.com/rose2221/ETHMumbai)
+- ETHMumbai Finalist'24, 1st prize PurpleDAO track  [Point Caster](https://github.com/rose2221/ETHMumbai)
 - 1st prize, Avail Track [Zk Proof Portal](https://github.com/rose2221/ScalingEthereum)
 - Winner, Avail DA Track [PriviChainEx](https://github.com/PriviChainEx/)
 
