@@ -5,10 +5,10 @@
 ## I'm Rose, a Electrical Undergrad at IIT Roorkee. 
 
 ### Projects and Acheivements:-
-- ETHMumbai Finalist'24 [Point Caster](https://github.com/rose2221/ETHMumbai)
-- 1st prize PurpleDAO track [Point Caster](https://github.com/rose2221/ETHMumbai)
-- 1st prize, Avail Track at ETH Global's Scaling Ethereum [Zk Proof Portal](https://github.com/rose2221/ScalingEthereum)
-- Winner, Avail DA Track at ETH Global's Circuit Breaker [PriviChainEx](https://github.com/PriviChainEx/)
+- ETHMumbai Finalist'24 [Point Caster](https://devfolio.co/projects/pointcaster-bafe)
+- 1st prize PurpleDAO track [Point Caster](https://devfolio.co/projects/pointcaster-bafe)
+- 1st prize, Avail Track at ETH Global's Scaling Ethereum [Zk Proof Portal](https://ethglobal.com/showcase/zkproof-portal-1jjg5)
+- Winner, Avail DA Track at ETH Global's Circuit Breaker [PriviChainEx](https://ethglobal.com/showcase/privchainex-ohoh3)
 
 ### Past Experience
 - Ex Blockchain Intern at [Timechain Labs](https://timechainlabs.io/)
