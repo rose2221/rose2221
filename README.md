@@ -4,6 +4,8 @@
 
 ## I'm Rose, a Electrical Undergrad at IIT Roorkee. 
 
+Blockchain Core Engineering Intern 
+
 ### Projects and Acheivements:-
 - ETHMumbai Finalist'24 [Point Caster](https://devfolio.co/projects/pointcaster-bafe)
 - 1st prize PurpleDAO track [Point Caster](https://devfolio.co/projects/pointcaster-bafe)
