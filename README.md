@@ -5,7 +5,8 @@
 ## I'm Rose, a Electrical Undergrad at IIT Roorkee. 
 
 ### Currently
-- Blockchain Core Engineering Intern at [NethermindEth](https://github.com/NethermindEth) 
+- Blockchain Core Engineering Intern at [NethermindEth](https://github.com/NethermindEth)
+- Women in Ethereum Protocol [wiepteam](https://github.com/ethereum/eipw)
 
 ### Projects and Acheivements:-
 - ETHMumbai Finalist'24 [Point Caster](https://devfolio.co/projects/pointcaster-bafe)
