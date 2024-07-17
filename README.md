@@ -16,7 +16,8 @@
 
 ### Past Experience
 - Ex Blockchain Intern at [Timechain Labs](https://timechainlabs.io/)
-  
+
+Substack: [0xrosetteeee](https://0xrosetteeee.substack.com/0xrosetteeee) 
 
 ### Reach Out to me:
 - 🕊️Twitter:- [0xrosetteeee](https://twitter.com/0xrosetteeee)
