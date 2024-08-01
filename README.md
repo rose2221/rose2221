@@ -6,6 +6,7 @@
 
 ### Currently
 - Blockchain Core Engineering Intern at [NethermindEth](https://github.com/NethermindEth)
+- Working on Custom libp2p implmentation for Prysm in [Ethereum Protocol Fellowship](https://blog.ethereum.org/2024/05/13/epf-5-announcement) Cohort 5.
 - Women in Ethereum Protocol [wiepteam](https://github.com/ethereum/eipw)
 
 ### Projects and Acheivements:-
