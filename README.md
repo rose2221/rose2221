@@ -2,7 +2,7 @@
 
 #### Hi there 👋
 
-## I'm Rose, a Electrical Undergrad at IIT Roorkee. 
+## I'm Rose from IIT Roorkee. 
 
 ### Currently
 - Blockchain Core Engineering Intern at [NethermindEth](https://github.com/NethermindEth)
