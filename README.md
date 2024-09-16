@@ -5,13 +5,13 @@
 ## I'm Rose from IIT Roorkee. 
 
 ### Currently
-- [Ethereum Protocol Fellow](https://blog.ethereum.org/2024/05/13/epf-5-announcement)
+- [Ethereum Protocol Fellow' 24](https://blog.ethereum.org/2024/05/13/epf-5-announcement)
 - Blockchain Intern at [Nethermind](https://www.nethermind.io/)
-- Women in Ethereum Protocol Fellow [wiepteam](https://github.com/ethereum/eipw)
+- Women in Ethereum Protocol Fellow'24 [wiepteam](https://github.com/ethereum/eipw)
 
 ### Projects and Acheivements:-
-- Working on Custom libp2p implmentation for Prysm in [Ethereum Protocol Fellowship](https://blog.ethereum.org/2024/05/13/epf-5-announcement) Cohort 5.
 - Working on [.NET libp2p Implementation](https://github.com/NethermindEth/dotnet-libp2p)
+- Working on Custom libp2p implmentation for Prysm in [Ethereum Protocol Fellowship](https://blog.ethereum.org/2024/05/13/epf-5-announcement) Cohort 5.
 - ETHMumbai Finalist'24 [Point Caster](https://devfolio.co/projects/pointcaster-bafe)
 - 1st prize PurpleDAO track [Point Caster](https://devfolio.co/projects/pointcaster-bafe)
 - 1st prize, Avail Track at ETH Global's Scaling Ethereum [Zk Proof Portal](https://ethglobal.com/showcase/zkproof-portal-1jjg5)
