@@ -6,7 +6,7 @@
 
 ### Currently
 - [Ethereum Protocol Fellow](https://blog.ethereum.org/2024/05/13/epf-5-announcement)
-- Blockchain Intern at [Netherming](https://www.nethermind.io/)
+- Blockchain Intern at [Nethermind](https://www.nethermind.io/)
 - Women in Ethereum Protocol [wiepteam](https://github.com/ethereum/eipw)
 
 ### Projects and Acheivements:-
