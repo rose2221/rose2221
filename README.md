@@ -4,9 +4,7 @@
 
 ## I'm Rose from IIT Roorkee. 
 
-### Currently
 - [Ethereum Protocol Fellow' 24](https://blog.ethereum.org/2024/05/13/epf-5-announcement)
-- Blockchain Intern at [Nethermind](https://www.nethermind.io/)
 - Women in Ethereum Protocol Fellow'24 [wiepteam](https://github.com/ethereum/eipw)
 
 ### Projects and Acheivements:-
@@ -21,6 +19,7 @@
 - Winner, Avail DA Track at ETH Global's Circuit Breaker [PriviChainEx](https://ethglobal.com/showcase/privchainex-ohoh3)
 
 ### Past Experience
+- Prev [Nethermind](https://www.nethermind.io/)
 - Ex Blockchain Intern at [Timechain Labs](https://timechainlabs.io/)
 
 Substack: [0xrosetteeee](https://0xrosetteeee.substack.com/0xrosetteeee) 
