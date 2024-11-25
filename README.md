@@ -12,7 +12,7 @@
 ### Projects and Acheivements:-
 - Working on [.NET libp2p Implementation](https://github.com/NethermindEth/dotnet-libp2p)
 - Working on [Custom libp2p implmentation for Prysm](https://github.com/eth-protocol-fellows/cohort-five/blob/main/projects/Prysm_libP2P_Implementation.md) in Ethereum Protocol Fellowship Cohort 5.
-- ETH Bangkok Winner - [Rollin' Pool](https://ethglobal.com/showcase/rollin-pool-z0m15)
+- ETH Bangkok Winner - [Rollin' Pool](https://ethglobal.com/showcase/rollin-pool-z0m15) Chronicle Protocol - Best Integration of Chronicle Oracles, Avail - Best Arbitrum Orbit x Avail integrated project, Gnosis - Build on Decentralized Payments Infrastructure with Gnosis Pay 
 - ETHMumbai Finalist'24 [Point Caster](https://devfolio.co/projects/pointcaster-bafe)
 - 1st prize PurpleDAO track [Point Caster](https://devfolio.co/projects/pointcaster-bafe)
 - 1st prize, Avail Track at ETH Global's Scaling Ethereum [Zk Proof Portal](https://ethglobal.com/showcase/zkproof-portal-1jjg5)
