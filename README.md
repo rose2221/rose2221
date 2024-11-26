@@ -12,7 +12,7 @@
 - Working on [Custom libp2p implmentation for Prysm](https://github.com/eth-protocol-fellows/cohort-five/blob/main/projects/Prysm_libP2P_Implementation.md) in Ethereum Protocol Fellowship Cohort 5.
 - Best Integration of Chronicle Oracles at ETH Bangkok Winner - [Rollin' Pool](https://ethglobal.com/showcase/rollin-pool-z0m15)
 - Best Arbitrum Orbit x Avail integrated project - [Rollin' Pool](https://ethglobal.com/showcase/rollin-pool-z0m15)
-- Build on Decentralized Payments Infrastructure with Gnosis Pay - [Rollin' Pool](https://ethglobal.com/showcase/rollin-pool-z0m15)
+- Build on Decentralized Payments Infrastructure with Gnosis Pay - [Rollin' Pool](https://ethglobal.com/showcase/rollin-pool-z0m15)w
 - ETHMumbai Finalist'24 [Point Caster](https://devfolio.co/projects/pointcaster-bafe)
 - 1st prize PurpleDAO track [Point Caster](https://devfolio.co/projects/pointcaster-bafe)
 - 1st prize, Avail Track at ETH Global's Scaling Ethereum [Zk Proof Portal](https://ethglobal.com/showcase/zkproof-portal-1jjg5)
