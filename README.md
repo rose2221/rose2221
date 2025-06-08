@@ -4,8 +4,9 @@
 
 ## I'm Rose from IIT Roorkee. 
 
-- [Ethereum Protocol Fellow' 24](https://blog.ethereum.org/2024/05/13/epf-5-announcement)
-- Women in Ethereum Protocol Fellow'24 [wiepteam](https://github.com/ethereum/eipw)
+[prysm](contributor)
+[rust-libp2p](contributor)
+[reth](contributor)
 
 ### Projects and Acheivements:-
 - Working on [.NET libp2p Implementation](https://github.com/NethermindEth/dotnet-libp2p)
@@ -19,6 +20,8 @@
 - Winner, Avail DA Track at ETH Global's Circuit Breaker [PriviChainEx](https://ethglobal.com/showcase/privchainex-ohoh3)
 
 ### Past Experience
+- [Ethereum Protocol Fellow' 24](https://blog.ethereum.org/2024/05/13/epf-5-announcement)
+- Women in Ethereum Protocol Fellow'24 [wiepteam](https://github.com/ethereum/eipw)
 - Prev [Nethermind](https://www.nethermind.io/)
 - Ex Blockchain Intern at [Timechain Labs](https://timechainlabs.io/)
 
