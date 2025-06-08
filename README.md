@@ -4,9 +4,9 @@
 
 ## I'm Rose from IIT Roorkee. 
 
--[prysm](contributor)
--[rust-libp2p](contributor)
--[reth](contributor)
+- [prysm](contributor)
+- [rust-libp2p](contributor)
+- [reth](contributor)
 
 ### Projects and Acheivements:-
 - Working on [.NET libp2p Implementation](https://github.com/NethermindEth/dotnet-libp2p)
