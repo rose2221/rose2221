@@ -19,7 +19,7 @@
 - Winner, Avail DA Track at ETH Global's Circuit Breaker [PriviChainEx](https://ethglobal.com/showcase/privchainex-ohoh3)
 
 ### Past Experience
-- [Ethereum Protocol Fellow' 24](https://blog.ethereum.org/2024/05/13/epf-5-announcement)
+- [Ethereum Protocol Fellow' 24](https://hackmd.io/@0xrosetteeee/week13)
 - Women in Ethereum Protocol Fellow'24 [wiepteam](https://github.com/ethereum/eipw)
 - Prev [Nethermind](https://www.nethermind.io/)
 - Ex Blockchain Intern at [Timechain Labs](https://timechainlabs.io/)
