@@ -4,9 +4,9 @@
 
 ## I'm Rose from IIT Roorkee. 
 
-- [prysm(contributor)]
-- [rust-libp2p(contributor)]
-- [reth(contributor)]
+- [prysm(contributor)](https://github.com/OffchainLabs/prysm/pulls?q=is%3Apr+author%3Arose2221)
+- [rust-libp2p(contributor)](https://github.com/libp2p/rust-libp2p/pulls?q=is%3Apr+author%3Arose2221)
+- [reth(contributor)](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Arose2221)
 
 ### Projects and Acheivements:-
 - Working on [.NET libp2p Implementation](https://github.com/NethermindEth/dotnet-libp2p)
