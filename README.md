@@ -10,6 +10,7 @@
 
 ### Projects and Acheivements:-
 - Working on [.NET libp2p Implementation](https://github.com/NethermindEth/dotnet-libp2p)
+- Research on the optimization part of [Yamux](https://hackmd.io/@0xrosetteeee/week13)
 -  Best Integration of Chronicle Oracles at ETH Bangkok Winner - [Rollin' Pool](https://ethglobal.com/showcase/rollin-pool-z0m15)
 - Best Arbitrum Orbit x Avail integrated project - [Rollin' Pool](https://ethglobal.com/showcase/rollin-pool-z0m15)
 - Build on Decentralized Payments Infrastructure with Gnosis Pay - [Rollin' Pool](https://ethglobal.com/showcase/rollin-pool-z0m15)
