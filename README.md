@@ -9,6 +9,7 @@
 - [reth(contributor)](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Arose2221)
 
 ### Projects and Acheivements:-
+- Centralize EIP-1559 base fee calculation used in berachain/reth [paradigm/reth](https://github.com/paradigmxyz/reth/pull/16927)
 - Working on [.NET libp2p Implementation](https://github.com/NethermindEth/dotnet-libp2p)
 - Research on the optimization part of [Yamux](https://hackmd.io/@0xrosetteeee/week13)
 -  Best Integration of Chronicle Oracles at ETH Bangkok Winner - [Rollin' Pool](https://ethglobal.com/showcase/rollin-pool-z0m15)
