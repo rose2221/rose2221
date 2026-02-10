@@ -21,10 +21,10 @@
 - Winner, Avail DA Track at ETH Global's Circuit Breaker [PriviChainEx](https://ethglobal.com/showcase/privchainex-ohoh3)
 
 ### Past Experience
+-[ZkEmail]
 - [Ethereum Protocol Fellow' 24](https://hackmd.io/@0xrosetteeee/week13)
-- Women in Ethereum Protocol Fellow'24 [wiepteam](https://github.com/ethereum/eipw)
 - Prev [Nethermind](https://www.nethermind.io/)
-- Ex Blockchain Intern at [Timechain Labs](https://timechainlabs.io/)
+
 
 Substack: [0xrosetteeee](https://0xrosetteeee.substack.com/0xrosetteeee) 
 
