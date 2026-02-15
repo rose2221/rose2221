@@ -15,11 +15,11 @@
 - Research on the optimization part of [Yamux](https://hackmd.io/@0xrosetteeee/week13)
 - 3 x Hackathon Winner (ETH Mumbai, ETH Bangkok, ETH Global's Scaling Ethereum)
 
-### Past Experience
+### Prev
 - [Primev](https://primev.xyx)
 - [ZkEmail](https://zk.email/)
 - [Ethereum Protocol Fellow' 24](https://hackmd.io/@0xrosetteeee/week13)
-- Prev [Nethermind](https://www.nethermind.io/)
+- [Nethermind](https://www.nethermind.io/)
 
 
 Substack: [0xrosetteeee](https://0xrosetteeee.substack.com/0xrosetteeee) 
