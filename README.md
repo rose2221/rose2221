@@ -2,7 +2,7 @@
 
 #### Hi there 👋
 
-## I'm Rose from IIT Roorkee. 
+## I'm Rose from IIT Roorkee. Currently working as Zk Engineer at Atheon. 
 
 - [prysm(contributor)](https://github.com/OffchainLabs/prysm/pulls?q=is%3Apr+author%3Arose2221)
 - [rust-libp2p(contributor)](https://github.com/libp2p/rust-libp2p/pulls?q=is%3Apr+author%3Arose2221)
@@ -12,16 +12,11 @@
 - Centralize EIP-1559 base fee calculation used in berachain/reth [paradigm/reth](https://github.com/paradigmxyz/reth/pull/16927)
 - Working on [.NET libp2p Implementation](https://github.com/NethermindEth/dotnet-libp2p)
 - Research on the optimization part of [Yamux](https://hackmd.io/@0xrosetteeee/week13)
--  Best Integration of Chronicle Oracles at ETH Bangkok Winner - [Rollin' Pool](https://ethglobal.com/showcase/rollin-pool-z0m15)
-- Best Arbitrum Orbit x Avail integrated project - [Rollin' Pool](https://ethglobal.com/showcase/rollin-pool-z0m15)
-- Build on Decentralized Payments Infrastructure with Gnosis Pay - [Rollin' Pool](https://ethglobal.com/showcase/rollin-pool-z0m15)
-- ETHMumbai Finalist'24 [Point Caster](https://devfolio.co/projects/pointcaster-bafe)
-- 1st prize PurpleDAO track [Point Caster](https://devfolio.co/projects/pointcaster-bafe)
-- 1st prize, Avail Track at ETH Global's Scaling Ethereum [Zk Proof Portal](https://ethglobal.com/showcase/zkproof-portal-1jjg5)
-- Winner, Avail DA Track at ETH Global's Circuit Breaker [PriviChainEx](https://ethglobal.com/showcase/privchainex-ohoh3)
+- 3 x Hackathon Winner
 
 ### Past Experience
--[ZkEmail]
+- [Primev](https://primev.xyx)
+- [ZkEmail](https://zk.email/)
 - [Ethereum Protocol Fellow' 24](https://hackmd.io/@0xrosetteeee/week13)
 - Prev [Nethermind](https://www.nethermind.io/)
 
