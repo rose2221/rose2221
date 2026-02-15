@@ -21,7 +21,7 @@
 - ETH Mumbai Finalist([Point Caster](https://devfolio.co/projects/pointcaster-bafe))
 - ETH Bangkok Winner([Rollin' Pool](https://ethglobal.com/showcase/rollin-pool-z0m15))
 - ETH Global's Scaling Ethereum Winner([Zk Proof Portal](https://ethglobal.com/showcase/zkproof-portal-1jjg5))
-- Eth Global's Circuit Breaker Winner(PriviChainEx](https://ethglobal.com/showcase/privchainex-ohoh3))
+- Eth Global's Circuit Breaker Winner([PriviChainEx](https://ethglobal.com/showcase/privchainex-ohoh3))
 
 Substack: [0xrosetteeee](https://0xrosetteeee.substack.com/0xrosetteeee) 
 
