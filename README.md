@@ -7,7 +7,7 @@
 ### Past Experience
 - Protocol Engineer at [Primev](https://primev.xyx)
 - Applied Cryptography Engineer at [ZkEmail](https://zk.email/)
-- Protocol Fellow at [Ethereum(https://hackmd.io/@0xrosetteeee/week13)
+- Protocol Fellow at [Ethereum](https://hackmd.io/@0xrosetteeee/week13)
 - Ethereum Core Dev at [Nethermind](https://www.nethermind.io/)
 
 ### Open Source Contributions
@@ -19,7 +19,10 @@
 ### Projects and Acheivements:-
 - [.NET libp2p Implementation](https://github.com/NethermindEth/dotnet-libp2p)
 - Research on the optimization part of [Yamux](https://hackmd.io/@0xrosetteeee/week13)
-- 3 x Hackathon Winner (ETH Mumbai, ETH Bangkok, ETH Global's Scaling Ethereum)
+- ETH Mumbai Finalist(PointCaster)
+- ETH Bangkok Winner
+- ETH Global's Scaling Ethereum Winner
+- Eth Global's 
 
 Substack: [0xrosetteeee](https://0xrosetteeee.substack.com/0xrosetteeee) 
 
