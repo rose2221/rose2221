@@ -5,7 +5,7 @@
 ## I'm Rose from IIT Roorkee. Currently working as ZK Engineer at Atheon. 
 
 ### Past Experience
-- Protocol Engineer at [Primev](https://primev.xyx)
+- Protocol Engineer at [Primev](https://primev.xyz)
 - Applied Cryptography Engineer at [ZkEmail](https://zk.email/)
 - Protocol Fellow at [Ethereum](https://hackmd.io/@0xrosetteeee/week13)
 - Ethereum Core Dev at [Nethermind](https://www.nethermind.io/)
