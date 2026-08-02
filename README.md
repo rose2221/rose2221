@@ -2,7 +2,7 @@
 
 #### Hi there 👋
 
-## I'm Rose from IIT Roorkee. Currently working as ZK Engineer at Atheon
+## I'm Rose from IIT Roorkee. Currently building Trinity.
 
 ### Past Experience
 - Protocol Engineer at [Primev](https://primev.xyz)
