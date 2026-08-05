@@ -2,7 +2,10 @@
 
 #### Hi there 👋
 
-## I'm Rose from IIT Roorkee. Currently building Trinity.
+## I'm Rose from IIT Roorkee. Currently building:-
+
+- Trinity(https://usetrinity.ai)
+- Provekit(https://provekit.org/)
 
 ### Past Experience
 - Protocol Engineer at [Primev](https://primev.xyz)
