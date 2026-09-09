@@ -4,9 +4,9 @@
 
 ## I'm Rose from IIT Roorkee. Currently building:-
 
-- Trinity(https://usetrinity.ai)
-- Atheon(https://atheon.xyz)
-- Provekit(https://provekit.org/)
+- [Trinity](https://usetrinity.ai)
+- [Atheon](https://atheon.xyz)
+- [Provekit](https://provekit.org/)
 
 ### Past Experience
 - Protocol Engineer at [Primev](https://primev.xyz)
